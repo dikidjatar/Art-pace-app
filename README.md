@@ -1,5 +1,5 @@
 # Art Space App
 
-# Thanks For:
+#### Thanks For:
 
 - Images from [pexels](https://pexels.com)
