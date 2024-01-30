@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="atwork_title_bird">Bird</string>
+    <string name="atwork_artist_bird">Amelia Indah (%S)</string>
+
+    <string name="atwork_title_cool">Pemandangan Indah</string>
+    <string name="atwork_artist_cool">Diki Djatar (%s)</string>
+
+    <string name="atwork_title_drink">Minuman</string>
+    <string name="atwork_artist_drink">Putri Andini (%s)</string>
+
+    <string name="atwork_title_mom">Ibu Dan Anak</string>
+    <string name="atwork_artist_mom">Arini Senandung (%s)</string>
+
+    <string name="atwork_title_moon">Bulan Purnama Indah</string>
+    <string name="atwork_artist_moon">Paython Pierce (%s)</string>
+
+    <!-- Button String -->
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+</resources>
